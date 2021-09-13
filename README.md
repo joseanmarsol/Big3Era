@@ -1,3 +1,12 @@
+## Big 3 Era Project
+The men's tennis circuit in the 21st century has been dominated by just three men. Roger Federer, Rafael Nadal and Novak Djokovic, in order of appearence, have imposed their law, killed new generations and monopolized trophies from the main tournaments. However, one big question is still passionately discussed among the tennis fans, "Who is the best of them?".
+
+With this project, my only humble purpose is not to categorically answer that question, but to use the data we have at our disposition to try to help the fans to objectively decide for themselves who has been the GOAT.
+
+Finally, let this serve as a disclaimer, at the moment of this project (August 2021) the three players are still active, so I know that this analysis will be outdated sooner than later. I still hope this helps to understand this rivalry, acknowledge the amazing records each of them has achieved and realize that without this fierce competition on the court, probably none of them would have become the players they are.
+
+I found a repository with a great database, including players, matches and rankings, from JeffSackmann. My gratitude to Jeff for his amazing work collecting all this data. The csv files come from the repository, which I forked. The Jupyter Notebook and SQL queries are mine. From below on, the info comes from the README of Jeff, for info purposes and for the License.
+
 ## ATP Tennis Rankings, Results, and Stats
 
 This contains my master ATP player file, historical rankings, results, and match stats.
