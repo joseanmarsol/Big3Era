@@ -5,7 +5,7 @@ With this project, my only humble purpose is not to categorically answer that qu
 
 Finally, let this serve as a disclaimer, at the moment of this project (August 2021) the three players are still active, so I know that this analysis will be outdated sooner than later. I still hope this helps to understand this rivalry, acknowledge the amazing records each of them has achieved and realize that without this fierce competition on the court, probably none of them would have become the players they are.
 
-I found a repository with a great database, including players, matches and rankings, from JeffSackmann. My gratitude to Jeff for his amazing work collecting all this data. The csv files come from the repository, which I forked. The Jupyter Notebook and SQL queries are mine. From below on, the info comes from the README of Jeff, for info purposes and for the License.
+I found a repository with a great database, including players, matches and rankings, from JeffSackmann. My gratitude to Jeff for his amazing work collecting all this data. The csv files come from the repository, which I forked. The Jupyter Notebook, SQL queries and Excel files are mine. From below on, the info comes from the README of Jeff, for info purposes and for the License.
 
 ## ATP Tennis Rankings, Results, and Stats
 
